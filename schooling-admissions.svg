@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <style>
+        :root {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        foreignObject {
+            width: 100vw;
+            height: 100vh;
+            overflow: visible;
+        }
+    </style>
+    <foreignObject width="100%" height="100%">
+<html lang="en">
+  <head>
+    <title>IXL | Math, Language Arts, Science, Social Studies, and Spanish</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0a0e17" />
+    <script type="module" crossorigin src="assets/index-5pf0vWoh.js"></script>
+    <link rel="stylesheet" crossorigin href="assets/index-BsbcxvIj.css">
+  </head>
+  <body>
+    <div style="display:none" aria-hidden="true">
+    <h1>SciPath - Your Path To Learning STEM, Biology, and Chemistry</h1>
+    <br><p>SciPath is the best learning platform for STEM, Biology, Chemistry, Physics, and much more. We provide video lessons, educational quizes, fun educational interactables, study flashcards, and 1 on 1 tutoring with experts in science.</p>
+    <section><h2>Our Team</h2><p>Lily - Biology Teacher with 12 years of experience in biochemistry, biology, and has a bachelor of science at USYD.</p><p>Thomas - With over 7 years in STEM, Thomas has worked with students across the globe online and in-person. Thomas is a great choice if you need help.</p></div>  
+    <div id="root"></div>
+    <script src="scramjet/scramjet.js"></script>
+    <script src="controller/controller.api.js"></script>
+    <script src="wconfig.js"></script>
+  </body>
+</html>
+   </foreignObject>
+</svg>
+
+
+
