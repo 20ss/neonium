@@ -30,7 +30,7 @@
             min-height: 100%;
             margin: 0;
             padding: 0;
-            overflow: auto; /* Replaces hidden to allow the inner frame to scroll */
+            overflow: auto;
         }
 
         #root {
